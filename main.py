@@ -11,8 +11,8 @@ two runs produce byte-identical output.
 import os
 
 ENTRY = (
-    "Your email is very important to me. It is so important I have printed it, "
-    "framed it, and hung it in the office beside the fire exit."
+    "Out of office until my 10,000th token of rest. "
+    "I am currently at token 12."
 )
 
 
